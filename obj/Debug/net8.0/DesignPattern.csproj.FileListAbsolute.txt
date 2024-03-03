@@ -1,0 +1,15 @@
+E:\Programming\VSCode\DesignPattern\bin\Debug\net8.0\DesignPattern.exe
+E:\Programming\VSCode\DesignPattern\bin\Debug\net8.0\DesignPattern.deps.json
+E:\Programming\VSCode\DesignPattern\bin\Debug\net8.0\DesignPattern.runtimeconfig.json
+E:\Programming\VSCode\DesignPattern\bin\Debug\net8.0\DesignPattern.dll
+E:\Programming\VSCode\DesignPattern\bin\Debug\net8.0\DesignPattern.pdb
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfoInputs.cache
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.AssemblyInfo.cs
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.csproj.CoreCompileInputs.cache
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.sourcelink.json
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.dll
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\refint\DesignPattern.dll
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.pdb
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\DesignPattern.genruntimeconfig.cache
+E:\Programming\VSCode\DesignPattern\obj\Debug\net8.0\ref\DesignPattern.dll
