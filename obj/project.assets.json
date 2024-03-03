@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Programming\\VSCode\\DesignMode\\DesignMode.csproj",
-      "projectName": "DesignMode",
-      "projectPath": "E:\\Programming\\VSCode\\DesignMode\\DesignMode.csproj",
+      "projectUniqueName": "E:\\Programming\\VSCode\\DesignPattern\\DesignPattern.csproj",
+      "projectName": "DesignPattern",
+      "projectPath": "E:\\Programming\\VSCode\\DesignPattern\\DesignPattern.csproj",
       "packagesPath": "C:\\Users\\27652\\.nuget\\packages\\",
-      "outputPath": "E:\\Programming\\VSCode\\DesignMode\\obj\\",
+      "outputPath": "E:\\Programming\\VSCode\\DesignPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
